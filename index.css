@@ -1,0 +1,32 @@
+*{margin: 0;
+padding: 0;}
+
+.top-nav{background-color: rgb(44, 55, 58);
+height: 60px;
+width: 100%;}
+
+.navbar-brand{color:white;
+font-size: large;
+word-spacing: 1px;
+letter-spacing: 2px;}
+
+.links{color: white;
+text-decoration: none;}
+
+.links:hover{color: rgb(199, 199, 199);
+text-decoration: none;}
+
+.search-bar{margin-left: 500px;}
+
+.navbar-brand,h2{font-family: 'Kaushan Script', cursive;
+letter-spacing: 3px;}
+
+
+.button{letter-spacing: 80px;
+    word-spacing: 40px;
+padding:10px;
+margin: 10 10 10 10px;}
+
+a{margin-left: 0px;}
+
+
